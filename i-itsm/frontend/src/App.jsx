@@ -16,6 +16,7 @@ export default function App() {
   return (
     <div style={{ fontFamily: 'sans-serif', padding: 24 }}>
       <h1>I-ITSM environment check</h1>
+      <p>Environment de-update</p>
       <pre>{result}</pre>
     </div>
   )
